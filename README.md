@@ -1,3 +1,2 @@
-﻿# GabojagoUser
 # GabojagoUser
 # GabojagoComm
